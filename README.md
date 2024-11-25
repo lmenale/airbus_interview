@@ -95,3 +95,8 @@ src/
    - Improves maintainability
    - Makes code more organized
 
+## UML diagram
+
+[uml diagrams](src/docs/diagrams.md)
+
+Realized using Mermaid.
